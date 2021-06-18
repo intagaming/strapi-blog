@@ -62,6 +62,19 @@
     "posts": {
       "via": "author",
       "collection": "post"
+    },
+    "fullName": {
+      "type": "string"
+    },
+    "avatar": {
+      "model": "file",
+      "via": "related",
+      "allowedTypes": [
+        "images"
+      ],
+      "plugin": "upload",
+      "required": false,
+      "pluginOptions": {}
     }
   }
 }
