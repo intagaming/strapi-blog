@@ -1,3 +1,5 @@
-# Strapi application
+# My personal blog's Strapi
 
-A quick description of your strapi application
+The Strapi project that powers [my website](https://hxann.com).
+
+Check out the blog project at [https://github.com/intagaming/blog](https://github.com/intagaming/blog)
